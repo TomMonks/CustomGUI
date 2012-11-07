@@ -1,0 +1,11 @@
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\bin\Debug\TestGUIComponents.exe.config
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\bin\Debug\TestGUIComponents.exe
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\bin\Debug\TestGUIComponents.pdb
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\bin\Debug\CustomGUI.dll
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\bin\Debug\CustomGUI.pdb
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.Properties.Resources.resources
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.csproj.GenerateResource.Cache
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.exe
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.pdb
+\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\TestGUIComponents\obj\Debug\TestGUIComponents.Form1.resources
