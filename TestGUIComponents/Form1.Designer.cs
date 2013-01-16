@@ -28,9 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.extendedTabControl1 = new CustomGUI.ExtendedTabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.recentFileTextBox1 = new CustomGUI.RecentFileTextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.extendedTabControl1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -59,21 +62,42 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(192, 74);
+            this.tabPage2.Size = new System.Drawing.Size(471, 335);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // recentFileTextBox1
+            // 
+            this.recentFileTextBox1.Location = new System.Drawing.Point(12, 379);
+            this.recentFileTextBox1.Name = "recentFileTextBox1";
+            this.recentFileTextBox1.RecentFiles = ((System.Collections.Generic.List<string>)(resources.GetObject("recentFileTextBox1.RecentFiles")));
+            this.recentFileTextBox1.Size = new System.Drawing.Size(475, 20);
+            this.recentFileTextBox1.TabIndex = 1;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(510, 381);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(90, 26);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(637, 424);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.recentFileTextBox1);
             this.Controls.Add(this.extendedTabControl1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.extendedTabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -82,6 +106,8 @@
         private CustomGUI.ExtendedTabControl extendedTabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
+        private CustomGUI.RecentFileTextBox recentFileTextBox1;
+        private System.Windows.Forms.Button button1;
     }
 }
 
