@@ -22,7 +22,7 @@ namespace CustomGUI
         protected ContextMenuStrip GetContextMenu()
         {
             var cms = new ContextMenuStrip();
-            cms.Items.Add("Close", null, CloseItemClicked);
+            cms.Items.Add("Close", Properties.Resources.dialog_cancel, CloseItemClicked);
             return cms;
         }
 
