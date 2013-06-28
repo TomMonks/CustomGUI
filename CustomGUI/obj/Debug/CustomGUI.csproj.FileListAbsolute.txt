@@ -1,7 +1,7 @@
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\bin\Debug\CustomGUI.dll
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\bin\Debug\CustomGUI.pdb
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.csprojResolveAssemblyReference.cache
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.dll
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.pdb
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.Properties.Resources.resources
-\\isad.isadroot.ex.ac.uk\uoe\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.csproj.GenerateResource.Cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\bin\Debug\CustomGUI.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\bin\Debug\CustomGUI.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.Properties.Resources.resources
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.csproj.GenerateResource.Cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\CustomGUI\CustomGUI\obj\Debug\CustomGUI.TextboxWithOpenFileDialog.resources

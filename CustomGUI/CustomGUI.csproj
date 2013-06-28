@@ -56,11 +56,23 @@
     <Compile Include="RecentFileTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Textbox\TextBoxWithOpenExcelDialogArgs.cs" />
+    <Compile Include="Textbox\TextBoxWithOpenAccessDialogArgs.cs" />
+    <Compile Include="TextboxWithOpenFileDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextboxWithOpenFileDialog.Designer.cs">
+      <DependentUpon>TextboxWithOpenFileDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Textbox\ITextBoxWithOpenFileDialogArgs.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextboxWithOpenFileDialog.resx">
+      <DependentUpon>TextboxWithOpenFileDialog.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
